@@ -1,0 +1,113 @@
+.navbar-brand{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFAFA !important;
+    padding-left: 40px;
+}
+
+.ml-auto{
+    left: auto !important;
+    right: 0px;
+}
+
+.nav-link {
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF !important;
+}
+
+.conten{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+h2{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 23px;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+
+    color: #000000;
+
+}
+
+.deskripsi{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    padding-top: 0%;
+    color: #000000;
+}
+
+.list{
+    background-color: #FFFFFF;
+    opacity: 0.7;
+}
+
+.wait{
+    background-color: #C4C4C4;
+}
+
+.ontour{
+    background-color: #C4C4C4;
+}
+
+.finish{
+    background-color: #C4C4C4;  
+}
+
+.viewall{
+    font-family: Hind Siliguri;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #4F9AF8;
+}
+
+img{
+    padding-top: 0px;
+}
+
+.page-footer{
+    background-color:  #193B54 !important;
+}
+
+.white-text{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.grey-text{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 47px;
+}
+
+.aboutus{
+    padding-top: 10px;
+    margin-left: auto;
+}

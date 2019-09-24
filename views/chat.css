@@ -1,0 +1,65 @@
+html,body {
+    width: 1244;
+    font-family: 'EB Garamond', serif;
+}
+.panel {
+    background-color: #193b54;
+    display: flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-bottom: 40px;
+}
+.panel h3 {
+    margin-top: 5px;
+}
+.panel ul {
+    list-style: none;
+    display: flex;
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.panel ul li {
+    margin-left: 30px;
+    cursor: pointer;
+}
+.contact {
+    background-color: #c4c4c4;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-bottom: 2px solid #193b54;
+    cursor: pointer;
+}
+.contact img {
+    border-radius: 999px;
+    width: 106px;
+    height: 104px;
+}
+.panelchat {
+    background-color: #193b54;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1125px;
+}
+.chat {
+    display: flex;
+    margin-top: 20px;
+}
+.chat img {
+    margin-right: 10px;
+    width: 53px;
+    height: 52px;
+    border-radius: 999px;
+}
+.chat textarea {
+    border-radius: 10px;
+}
+.bottom {
+    background-color: #193b54;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}

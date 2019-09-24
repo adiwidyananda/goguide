@@ -1,0 +1,68 @@
+.navbar-inverse  {
+  background: #193B54
+}
+
+.navbar-brand {
+  font-family: Lobster;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+/* identical to box height */
+  color: #FFFAFA;
+}
+
+.navbar-right {
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 13px;
+    text-align: center;
+    color: #FFFFFF; 
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 80px 200px;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+  .nama {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+
+
+.img-thumbnail {
+  position: relative;
+  float: left;
+  width:  350px;
+  height: 350px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+}
+.bottom {
+  background-color: #193b54;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}

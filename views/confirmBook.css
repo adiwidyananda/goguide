@@ -1,0 +1,106 @@
+.navbar-brand{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFAFA !important;
+    padding-left: 40px;
+}
+
+.ml-auto{
+    left: auto !important;
+    right: 0px;
+}
+
+.nav-link {
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF !important;
+}
+
+.title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    text-align: center;
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 65px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.box{
+    background-color: #C4C4C4;
+    border-radius: 32px;
+    margin-bottom: 40px;
+}
+
+img{
+    padding-top: 50px;
+}
+
+.deskripsi{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #000000;
+    padding-top: 20px;
+}
+
+.button{
+    padding-bottom: 20px;
+    float: right;
+}
+
+.btn-primary{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 39px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFBFB;
+    border-radius: 50px;
+}
+
+.page-footer{
+    background-color:  #193B54 !important;
+}
+
+.white-text{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.grey-text{
+    font-family: EB Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 47px;
+}
+
+.aboutus{
+    padding-top: 10px;
+    margin-left: auto;
+}
+
